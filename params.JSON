@@ -1,0 +1,5 @@
+{
+    "body_model_path": "/content/drive/MyDrive/phd-project-000/model/body_pose_model.pth",
+    "hand_model_path": "/content/drive/MyDrive/phd-project-000/model/hand_pose_model.pth",
+    "test_image_path": "/content/drive/MyDrive/phd-project-000/input-poses/baseball1.jpg"
+}
